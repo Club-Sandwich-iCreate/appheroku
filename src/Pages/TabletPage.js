@@ -4,7 +4,7 @@ import videos from '../sketches/videos';
 import P5Wrapper from 'react-p5-wrapper';
 import Fullscreen from 'react-fullscreen-crossbrowser';
 
-const socketUrl = "http://localhost:5000"
+const socketUrl = "https://serversocket2018.herokuapp.com/"
 
 class TabletPage extends Component {
 

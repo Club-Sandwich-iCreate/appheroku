@@ -3,7 +3,7 @@ import io from 'socket.io-client';
 import P5Wrapper from 'react-p5-wrapper';
 import audio from '../sketches/audio';
 
-const socketUrl = "http://localhost:5000"
+const socketUrl = "https://serversocket2018.herokuapp.com"
 
 const listeSound = ['CHIEN.mp3','COQ-POULE.mp3','GRENOUILLE.mp3','VACHE.mp3']
 
